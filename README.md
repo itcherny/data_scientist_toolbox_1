@@ -2,4 +2,4 @@
 courcera
 This is a read me file 
 to test git skills
-Aline I wrote on my local computer
+A line I wrote on my local computer
